@@ -37,4 +37,4 @@ function verifyNumber(number) {
     }
 }
 
-verifyNumber(55555);
+verifyNumber(12321);
